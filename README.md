@@ -13,7 +13,7 @@
 ## About Aplication
 
 The app helps to find the suitability score (SS) that maximizes all the deliveries to the drivers. <br>    
-The app is done in Laravel 9, inside the framework it was written a command that looks and finds the SS among the delivery file data address and the drivers’ company file.
+The app is done in Laravel 9, inside the framework a command that looks and finds the SS among the delivery file data address and the drivers’ company file was written.
 
 ## The steps to run the program:
 To have installed **PHP** in the environment where the application will be executed
@@ -41,13 +41,14 @@ We open a system’s terminal and we go to the path where we want to clone our r
 ```
 cd Documents 
 ```
-Once in our file we clone the repository in our environment in the following way:
+Once in our file, we clone the repository in our environment in the following way:
 
 ```
 git clone https://github.com/fer-angeles/itjuana.git new_floder
 ```
 
-Once the repository is finished to clone, we go inside the file that was created when cloning the repository.
+Once the repository is finished to clone, we go inside the file which was created when cloning the repository.
+
 ```
 cd new_folder
 ```
