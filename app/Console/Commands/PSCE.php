@@ -43,7 +43,7 @@ class PSCE extends Command
             return false;
         }
 
-        $drivers_path = $this->ask('what is the drivers file path?');
+        $drivers_path = $this->ask('What is the drivers file path?');
         if( !file_exists($drivers_path) )
         {
             $this->error('The file drivers no exist or the path is incorrect.');
